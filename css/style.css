@@ -1,0 +1,22 @@
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  background-color: lightblue;
+}
+#quote-box {
+  position: relative;
+  width: 500px;
+  top: 200px;
+  height: auto;
+  background-color: lightblue;
+  align-items: center
+}
+#author {
+    position: relative;
+    right: -390px
+  }
+#new-quote {
+  position: fixed;
+  right: 400px 
+}
